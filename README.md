@@ -2,16 +2,6 @@
 
 This project contains a series of Jupyter notebooks and Python scripts that demonstrate the use of Natural Language Processing (NLP) techniques for text analysis. Each lab focuses on different aspects of NLP and text processing techniques.
 
-## Project Structure
-
-- `lab1/` 
-- ............................................................
-
-- `lab2/`
-- .......................
-
-
-
 ## Installation
 
 1. Clone this repository to your local machine.
